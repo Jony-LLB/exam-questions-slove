@@ -105,6 +105,11 @@ person.hobby = "reading";
 
 console.log(person);
 
+kldsahfslak;adghoiahwernlk
+
+addEventListener;lhasdjsad
+jsd;lfsd;l
+
 
 
 
